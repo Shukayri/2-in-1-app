@@ -3,6 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Zee/AndroidStudioProjects/2-in-1-app/rvAPP/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/Zee/AndroidStudioProjects/2-in-1-app/rvAPP/app/src/main/res/layout/activity_numbers_game.xml" value="0.12" />
+        <entry key="..\:/Users/Zee/AndroidStudioProjects/2-in-1-app/rvAPP/app/src/main/res/layout/numbers_game.xml" value="0.1" />
+        <entry key="..\:/Users/Zee/AndroidStudioProjects/2-in-1-app/rvAPP/app/src/main/res/menu/menu_main.xml" value="0.2" />
         <entry key="..\:/Users/Zee/AndroidStudioProjects/Recycler-View-App/rvAPP/app/src/main/res/layout/activity_main.xml" value="0.2" />
         <entry key="..\:/Users/Zee/AndroidStudioProjects/Recycler-View-App/rvAPP/app/src/main/res/layout/activity_number_guessing_game.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/Zee/AndroidStudioProjects/Recycler-View-App/rvAPP/app/src/main/res/layout/edit_rv.xml" value="0.20416666666666666" />

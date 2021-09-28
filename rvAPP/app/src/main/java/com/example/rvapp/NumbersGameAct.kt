@@ -31,7 +31,7 @@ class NumbersGameAct : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_number_guessing_game)
+        setContentView(R.layout.numbers_game)
 
         answer = Random.nextInt(10)
 
